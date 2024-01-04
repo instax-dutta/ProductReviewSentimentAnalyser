@@ -1,5 +1,3 @@
-Certainly! Below is a sample GitHub repository README for your project:
-
 ---
 
 # Flipkart Review Sentiments Analyzer
