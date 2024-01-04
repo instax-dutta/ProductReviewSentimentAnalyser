@@ -6,7 +6,7 @@
 
 ## Overview
 
-Flipkart Review Sentiments Analyzer is a web application that fetches and analyzes product reviews from Flipkart, providing insights into customer sentiments. It uses Flask for the backend, BeautifulSoup for web scraping, and includes features like fetching reviews, sentiment analysis, and generating word clouds.
+Product Review Sentiments Analyzer is a web application that fetches and analyzes product reviews from Flipkart, providing insights into customer sentiments. It uses Flask for the backend, BeautifulSoup for web scraping, and includes features like fetching reviews, sentiment analysis, and generating word clouds.
 
 ## Features
 
@@ -55,7 +55,9 @@ Flipkart Review Sentiments Analyzer is a web application that fetches and analyz
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
+- [Sai Dutta Abhishek Dash](https://github.com/instax-dutta)
+- [Jatin Kumar Pradhan](https://github.com/JatinKumarPradhan)
+- [Jyotirmayi Sadangi](https://github.com/JyotirmayiSadangi)
 
 ## License
 
