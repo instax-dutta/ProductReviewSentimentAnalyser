@@ -2,7 +2,7 @@
 
 # Product Review Sentiments Analyzer
 
-![Project Image](https://your-image-url.com)
+![](https://i.imgur.com/9vhkyEV.png)
 
 ## Overview
 
