@@ -1,6 +1,6 @@
 ---
 
-# Flipkart Review Sentiments Analyzer
+# Product Review Sentiments Analyzer
 
 ![Project Image](https://your-image-url.com)
 
