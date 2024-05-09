@@ -27,7 +27,7 @@ Product Review Sentiments Analyzer is a web application that fetches and analyze
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/flipkart-review-sentiments.git
+    git clone https://github.com/instax-dutta/ProductReviewSentimentAnalyser.git
     ```
 
 2. Install the required dependencies:
